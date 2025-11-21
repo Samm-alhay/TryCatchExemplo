@@ -1,0 +1,14 @@
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/bin/Debug/net9.0/TryCatchExemplos
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/bin/Debug/net9.0/TryCatchExemplos.deps.json
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/bin/Debug/net9.0/TryCatchExemplos.runtimeconfig.json
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/bin/Debug/net9.0/TryCatchExemplos.dll
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/bin/Debug/net9.0/TryCatchExemplos.pdb
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/obj/Debug/net9.0/TryCatchExemplos.GeneratedMSBuildEditorConfig.editorconfig
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/obj/Debug/net9.0/TryCatchExemplos.AssemblyInfoInputs.cache
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/obj/Debug/net9.0/TryCatchExemplos.AssemblyInfo.cs
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/obj/Debug/net9.0/TryCatchExemplos.csproj.CoreCompileInputs.cache
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/obj/Debug/net9.0/TryCatchExemplos.dll
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/obj/Debug/net9.0/refint/TryCatchExemplos.dll
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/obj/Debug/net9.0/TryCatchExemplos.pdb
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/obj/Debug/net9.0/TryCatchExemplos.genruntimeconfig.cache
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/obj/Debug/net9.0/ref/TryCatchExemplos.dll
