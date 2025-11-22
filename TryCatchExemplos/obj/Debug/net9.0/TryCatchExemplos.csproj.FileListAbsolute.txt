@@ -12,3 +12,4 @@
 /home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/obj/Debug/net9.0/TryCatchExemplos.pdb
 /home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/obj/Debug/net9.0/TryCatchExemplos.genruntimeconfig.cache
 /home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/obj/Debug/net9.0/ref/TryCatchExemplos.dll
+/home/samv/RiderProjects/TryCatchExemplos/TryCatchExemplos/obj/Debug/net9.0/TryCatchExemplos.sourcelink.json
